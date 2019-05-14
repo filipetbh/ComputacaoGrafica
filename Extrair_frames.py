@@ -10,7 +10,7 @@ import cv2
 import os 
   
 # Read the video from specified path 
-cam = cv2.VideoCapture("C:\\Users\\11827138\\Downloads\\Aula_Face\\avengers.mp4") 
+cam = cv2.VideoCapture("C:\\Users\\11827138\\Downloads\\Aula_Face.mp4") 
   
 try: 
       
